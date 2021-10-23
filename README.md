@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ousmane
+- 👀 I’m interested in collaborating with others
+- 🌱 I’m currently learning data science at eCornell University 
+- 💞️ I’m looking to collaborate on modelling in finance fiekd.
+- 📫 How to reach 
